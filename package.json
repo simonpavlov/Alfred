@@ -1,8 +1,8 @@
 {
-  "name": "test",
+  "name": "alfred",
   "version": "0.0.0",
-  "description": "Test",
-  "main": "index.js",
+  "description": "DroneEmployee provider",
+  "main": "alfred.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
